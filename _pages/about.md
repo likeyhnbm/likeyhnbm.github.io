@@ -15,7 +15,7 @@ I am a first-year Ph.D. student at University of Central Florida with [Prof. Che
 
 <ul style="width: auto; height: 300px; overflow: auto">
   
-  <li> <b>[March. 2022]</b> I will join <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">Prof. Chen Chen's group</a> as a Ph.D. student on 2020 Fall!</li> 
+  <li> <b>[March. 2022]</b> I will join <a href="https://www.crcv.ucf.edu/chenchen/">Prof. Chen Chen's group</a> as a Ph.D. student on 2020 Fall!</li> 
   
   
 </ul>
