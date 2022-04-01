@@ -20,4 +20,4 @@ I am a first-year Ph.D. student at University of Central Florida with [Prof. Che
   
 </ul>
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=2d78ad&w=a&t=n&d=i6Cg2uwoVYtktTxLJzeGkQjg7ICgXupw_nf4-TfxTF4&co=ffffff'></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Ow01XdCgugr-Uj3fr41EfZ2PQbE9AzgMZC4cJxGEQ8g"></script>
