@@ -13,7 +13,7 @@ Ming Liu*, Dongpeng Liu*, **Guangyu Sun**, Yi Zhao, Duolin Wang, Fangxing Liu, X
 
 [[paper](https://ieeexplore.ieee.org/document/9300285)]
 
-## Preprint##
+## Preprint ##
 ### Anomaly Crossing: A New Method for Video Anomaly Detection as Cross-domain Few-shot Learning
 **Guangyu Sun***, Zhang Liu*, Lianggong Wen, Jing Shi, Chenliang Xu.
 
