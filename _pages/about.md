@@ -17,7 +17,7 @@ I am a first-year Ph.D. student at University of Central Florida with [Prof. Che
   
   <li> <b>[March. 2022]</b> I will join <a href="https://www.crcv.ucf.edu/chenchen/">Prof. Chen Chen's group</a> as a Ph.D. student in 2022 Fall!</li> 
 
-  <li> <b>[May. 2022]</b> I've earned my Master's of Science in Computer Science degree at the University of Rochester!</li> 
+  <li> <b>[May 2022]</b> I've earned my Master's of Science in Computer Science degree at the University of Rochester!</li> 
   
   
 </ul>
