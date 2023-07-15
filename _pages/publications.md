@@ -18,6 +18,11 @@ Ming Liu\*, Dongpeng Liu\*, **Guangyu Sun**, Yi Zhao, Duolin Wang, Fangxing Liu,
 
 [[paper](https://ieeexplore.ieee.org/document/9300285)]
 
+### Assessing environmental oil spill based on fluorescence images of water samples and deep learning
+Dongpeng Liu, Ming Liu, **Guangyu Sun**, Zhiqian Zhou, Duolin Wang, Fei He, Jiaxin Li, Ryan Gettler, Eric Brunson, Jeffery Steevens, Dong Xu
+
+[[paper](https://pubs.er.usgs.gov/publication/70243648)]
+
 ## Preprint ##
 ### Conquering the Communication Constraints to Enable Large Pre-Trained Models in Federated Learning
 **Guangyu Sun**, Matias Mendieta, Taojiannan Yang, Chen Chen.
