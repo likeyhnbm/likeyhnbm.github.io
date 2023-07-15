@@ -7,6 +7,11 @@ author_profile: true
 
 # <i class="fa fa-fw fa-copy"></i> Publications #
 
+## Conference Papers ##
+### FedPerfix: Towards Partial Model Personalization of Vision Transformers in Federated Learning
+**Guangyu Sun**, Matias Mendieta, Jun Luo, Shandong Wu, Chen Chen.
+
+
 ## Journal Articles ##
 ### Deep Learning Detection of Inaccurate Smart Electricity Meters: A Case Study
 Ming Liu\*, Dongpeng Liu\*, **Guangyu Sun**, Yi Zhao, Duolin Wang, Fangxing Liu, Xiang Fang, Qing He, Dong Xu.
