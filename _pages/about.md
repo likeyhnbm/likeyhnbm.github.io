@@ -15,7 +15,7 @@ I am a first-year Ph.D. student at University of Central Florida with [Prof. Che
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-  <li> <b> [July. 2023]</b> Our paper <b>FedPerfix: Towards Partial Model Personalization of Vision Transformers in Federated Learning</b> has been accepted on ICCV-2023! Code and paper will be available soon.</li>
+  <li> <b> [July. 2023]</b> Our paper <b>FedPerfix: Towards Partial Model Personalization of Vision Transformers in Federated Learning</b> has been accepted on <b>ICCV 2023</b>! Code and paper will be available soon.</li>
 
   <li> <b> [Nov. 2022]</b> Our paper <b>Conquering the Communication Constraints to Enable Large Pre-Trained Models in Federated Learning</b> is now available on <a href="https://arxiv.org/abs/2210.01708"> arXiv</a>. </li>
 

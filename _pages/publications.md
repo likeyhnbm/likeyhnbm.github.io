@@ -11,15 +11,21 @@ author_profile: true
 ### FedPerfix: Towards Partial Model Personalization of Vision Transformers in Federated Learning
 **Guangyu Sun**, Matias Mendieta, Jun Luo, Shandong Wu, Chen Chen.
 
+_International Conference on Computer Vision (ICCV)_, 2023
+
 
 ## Journal Articles ##
 ### Deep Learning Detection of Inaccurate Smart Electricity Meters: A Case Study
 Ming Liu\*, Dongpeng Liu\*, **Guangyu Sun**, Yi Zhao, Duolin Wang, Fangxing Liu, Xiang Fang, Qing He, Dong Xu.
 
+_IEEE Industrial Electronics Magazine_, vol. 14, no. 4, pp. 79-90, Dec. 2020, doi: 10.1109/MIE.2020.3026197
+
 [[paper](https://ieeexplore.ieee.org/document/9300285)]
 
 ### Assessing environmental oil spill based on fluorescence images of water samples and deep learning
 Dongpeng Liu, Ming Liu, **Guangyu Sun**, Zhiqian Zhou, Duolin Wang, Fei He, Jiaxin Li, Ryan Gettler, Eric Brunson, Jeffery Steevens, Dong Xu
+
+_Journal of Environmental informatics_, vol. 42, no. 1, pp 1-12, Feb. 2023. doi:10.3808/jei.202300491.
 
 [[paper](https://pubs.er.usgs.gov/publication/70243648)]
 
