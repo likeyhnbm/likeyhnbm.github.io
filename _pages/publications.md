@@ -8,7 +8,8 @@ author_profile: true
 # <i class="fa fa-fw fa-copy"></i> Publications #
 
 ## Conference Papers ##
-### FedPerfix: Towards Partial Model Personalization of Vision Transformers in Federated Learning
+<a href="http://likeyhnbm.github.io/publications/FedPerfix"><img src="https://likeyhnbm.github.io/images/fedperfix.png?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
+### [FedPerfix: Towards Partial Model Personalization of Vision Transformers in Federated Learning](http://likeyhnbm.github.io/publications/FedPerfixhttp://likeyhnbm.github.io/publications/FedPerfix)
 **Guangyu Sun**, Matias Mendieta, Jun Luo, Shandong Wu, Chen Chen.
 
 _International Conference on Computer Vision (ICCV)_, 2023
