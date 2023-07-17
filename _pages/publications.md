@@ -83,11 +83,14 @@ author_profile: true
 <table class="imgtable">
   <tr>
     <td>
+     <a href="http://likeyhnbm.github.io/publications/AnomalyCrossing">
       <img src="../images/anomalycrossing.png" alt="" width="200px" height="auto" />
+      </a>
     </td>
     <td align="left">
       <p>
-        <b>Anomaly Crossing: New Horizons for Video Anomaly Detection as Cross-domain Few-shot Learning</b><br>
+        <a href="http://likeyhnbm.github.io/publications/AnomalyCrossing">
+        <b>Anomaly Crossing: New Horizons for Video Anomaly Detection as Cross-domain Few-shot Learning</b></a><br>
         <b>Guangyu Sun*</b>, Zhang Liu*, Lianggong Wen, Jing Shi, Chenliang Xu<br>
         [<a href="https://arxiv.org/abs/2112.06320">Paper</a>]
         [<a href="https://github.com/likeyhnbm/AnomalyCrossing">Code</a>]
