@@ -8,7 +8,7 @@ author_profile: true
 # <i class="fa fa-fw fa-copy"></i> Publications #
 
 ## Conference Paper ##
-<table class="imgtable">
+<table>
   <tr>
     <td>
       <a href="http://likeyhnbm.github.io/publications/FedPerfix"><img src="https://likeyhnbm.github.io/images/fedperfix.png?raw=true" alt="FedPerfix" width="200px" height="auto" /></a>
@@ -24,8 +24,9 @@ author_profile: true
   </tr>
 </table>
 
+
 ## Journal Articles ##
-<table class="imgtable">
+<table>
   <tr>
     <td>
       <a href="http://likeyhnbm.github.io/publications/electric">
@@ -42,9 +43,7 @@ author_profile: true
       </p>
     </td>
   </tr>
-</table>
 
-<table class="imgtable">
   <tr>
     <td>
      <a href="http://likeyhnbm.github.io/publications/water">
@@ -60,10 +59,13 @@ author_profile: true
       </p>
     </td>
   </tr>
+
 </table>
 
 ## Preprints ##
-<table class="imgtable">
+
+
+<table>
   <tr>
     <td>
     <a href="http://likeyhnbm.github.io/publications/FedPEFT">
@@ -78,9 +80,7 @@ author_profile: true
       </p>
     </td>
   </tr>
-</table>
 
-<table class="imgtable">
   <tr>
     <td>
      <a href="http://likeyhnbm.github.io/publications/AnomalyCrossing">
@@ -97,4 +97,5 @@ author_profile: true
       </p>
     </td>
   </tr>
+
 </table>
