@@ -26,6 +26,8 @@ author_profile: true
 
 
 ## Journal Articles ##
+
+
 <table>
   <tr>
     <td>
@@ -59,8 +61,8 @@ author_profile: true
       </p>
     </td>
   </tr>
-
 </table>
+
 
 ## Preprints ##
 
