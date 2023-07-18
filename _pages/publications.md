@@ -25,7 +25,7 @@ td.img {
 <table class='imgtable'>
   <tr>
     <td class="img">
-      <a href="http://likeyhnbm.github.io/publications/FedPerfix"><img src="https://likeyhnbm.github.io/images/fedperfix.png?raw=true" alt="FedPerfix"  height="95%" style='object-fit:contain;'/></a>
+      <a href="http://likeyhnbm.github.io/publications/FedPerfix"><img src="https://likeyhnbm.github.io/images/fedperfix.png?raw=true" alt="FedPerfix"   style='height:95%; object-fit:contain;'/></a>
     </td>
     <td align="left">
       <p>
@@ -44,7 +44,7 @@ td.img {
   <tr>
     <td class="img">
       <a href="http://likeyhnbm.github.io/publications/electric">
-      <img src="../images/electric.gif?raw=true" alt="" height="95%" style='object-fit:contain;'/>
+      <img src="../images/electric.gif?raw=true" alt="" height="95%" style='height:95%;object-fit:contain;'/>
       </a>
     </td>
     <td align="left">
@@ -60,7 +60,7 @@ td.img {
   <tr>
     <td class="img">
      <a href="http://likeyhnbm.github.io/publications/water">
-      <img src="../images/water.jpg?raw=true" alt=""  height="95%" style='object-fit:contain;'/></a>
+      <img src="../images/water.jpg?raw=true" alt=""  height="95%" style='height:95%;object-fit:contain;'/></a>
     </td>
     <td align="left">
       <p>
@@ -80,7 +80,7 @@ td.img {
   <tr>
     <td class="img">
     <a href="http://likeyhnbm.github.io/publications/FedPEFT">
-    <img src="../images/FedPEFT.jpeg" alt=""  height="95%" style='object-fit:contain;' />
+    <img src="../images/FedPEFT.jpeg" alt=""  height="95%" style='height:95%;object-fit:contain;' />
       </a>
     </td>
     <td align="left">
@@ -95,7 +95,7 @@ td.img {
   <tr>
     <td class="img">
      <a href="http://likeyhnbm.github.io/publications/AnomalyCrossing">
-      <img src="../images/anomalycrossing.png" alt=""  height="95%" style='object-fit:contain;' />
+      <img src="../images/anomalycrossing.png" alt=""  height="95%" style='height:95%;object-fit:contain;' />
       </a>
     </td>
     <td align="left">
