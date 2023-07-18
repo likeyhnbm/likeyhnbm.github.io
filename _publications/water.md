@@ -5,7 +5,7 @@ permalink: /publication/water
 <!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
 ---
 # Assessing environmental oil spill based on fluorescence images of water samples and deep learning
-[<a href=https://doi.org/10.3808/jei.202300491>Paper</a>]
+[[Paper](https://doi.org/10.3808/jei.202300491)]
 
 
 ## Abstract

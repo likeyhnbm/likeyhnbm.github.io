@@ -10,7 +10,7 @@ citation: 'M. Liu et al., "Deep Learning Detection of Inaccurate Smart Electrici
 ---
 # Deep Learning Detection of Inaccurate Smart Electricity Meters: A Case Study
 
-[<a href=https://ieeexplore.ieee.org/document/9300285>Paper</a>]
+[[Paper](https://ieeexplore.ieee.org/document/9300285)]
 
 
 ## Abstract
