@@ -19,7 +19,7 @@ table.imgtable, table.imgtable td {
 <table class='imgtable'>
   <tr>
     <td>
-      <a href="http://likeyhnbm.github.io/publications/FedPerfix"><img src="https://likeyhnbm.github.io/images/fedperfix.png?raw=true" alt="FedPerfix" width="180px" height="auto" style='object-fit:contain;'/></a>
+      <a href="http://likeyhnbm.github.io/publications/FedPerfix"><img src="https://likeyhnbm.github.io/images/fedperfix.png?raw=true" alt="FedPerfix" width="180px" height="100px" style='object-fit:contain;'/></a>
     </td>
     <td align="left">
       <p>
@@ -54,7 +54,7 @@ table.imgtable, table.imgtable td {
   <tr>
     <td>
      <a href="http://likeyhnbm.github.io/publications/water">
-      <img src="../images/water.jpg?raw=true" alt="" width="180px" height="100px" style='object-fit:contain;'/>
+      <img src="../images/water.jpg?raw=true" alt="" width="180px" height="100px" style='object-fit:contain;'/></a>
     </td>
     <td align="left">
       <p>
