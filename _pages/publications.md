@@ -18,7 +18,7 @@ table.imgtable, table.imgtable td {
 
 <table class='imgtable'>
   <tr>
-    <td width="210px“>
+    <td>
       <a href="http://likeyhnbm.github.io/publications/FedPerfix"><img src="https://likeyhnbm.github.io/images/fedperfix.png?raw=true" alt="FedPerfix" width="180px" height="auto" style='object-fit:contain;'/></a>
     </td>
     <td align="left">
@@ -31,7 +31,6 @@ table.imgtable, table.imgtable td {
     </td>
   </tr>
 </table>
-
 
 ## Journal Articles
 
@@ -69,13 +68,11 @@ table.imgtable, table.imgtable td {
   </tr>
 </table>
 
-
 ## Preprints
-
 
 <table class='imgtable'>
   <tr>
-    <td width="210px“>
+    <td>
     <a href="http://likeyhnbm.github.io/publications/FedPEFT">
     <img src="../images/FedPEFT.jpeg" alt="" width="180px" height="100px" style='object-fit:contain;' />
       </a>
@@ -89,9 +86,8 @@ table.imgtable, table.imgtable td {
       </p>
     </td>
   </tr>
-
   <tr>
-    <td width="210px“>
+    <td>
      <a href="http://likeyhnbm.github.io/publications/AnomalyCrossing">
       <img src="../images/anomalycrossing.png" alt="" width="180px" height="100px" style='object-fit:contain;' />
       </a>
@@ -106,7 +102,6 @@ table.imgtable, table.imgtable td {
       </p>
     </td>
   </tr>
-
 </table>
 
 
