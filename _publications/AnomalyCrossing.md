@@ -5,6 +5,7 @@ permalink: /publication/water
 <!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
 ---
 # Anomaly Crossing: New Horizons for Video Anomaly Detection as Cross-domain Few-shot Learning
+
 [<a href=https://arxiv.org/abs/2112.06320>Paper</a>][<a href=https://github.com/likeyhnbm/AnomalyCrossing>Code</a>]
 
 

@@ -5,6 +5,7 @@ permalink: /publication/fedpeft
 <!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
 ---
 # Conquering the Communication Constraints to Enable Large Pre-Trained Models in Federated Learning
+
 [<a href=https://arxiv.org/pdf/2210.01708.pdf>Paper</a>]
 
 

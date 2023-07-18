@@ -9,6 +9,7 @@ paperurl: "https://ieeexplore.ieee.org/document/9300285"
 citation: 'M. Liu et al., "Deep Learning Detection of Inaccurate Smart Electricity Meters: A Case Study," in IEEE Industrial Electronics Magazine, vol. 14, no. 4, pp. 79-90, Dec. 2020, doi: 10.1109/MIE.2020.3026197.'
 ---
 # Deep Learning Detection of Inaccurate Smart Electricity Meters: A Case Study
+
 [<a href=https://ieeexplore.ieee.org/document/9300285>Paper</a>]
 
 
