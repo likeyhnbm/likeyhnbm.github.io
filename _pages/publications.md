@@ -5,13 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
-# <i class="fa fa-fw fa-copy"></i> Publications #
+<style>
+table.imgtable, table.imgtable td {
+  border: none;
+  text-align: left;
+}
+</style>
 
-## Conference Paper ##
-<table>
+# <i class="fa fa-fw fa-copy"></i> Publications
+
+## Conference Paper
+
+<table class='imgtable'>
   <tr>
     <td width="210px“>
-      <a href="http://likeyhnbm.github.io/publications/FedPerfix"><img src="https://likeyhnbm.github.io/images/fedperfix.png?raw=true" alt="FedPerfix" width="200px" height="auto" /></a>
+      <a href="http://likeyhnbm.github.io/publications/FedPerfix"><img src="https://likeyhnbm.github.io/images/fedperfix.png?raw=true" alt="FedPerfix" width="180px" height="auto" style='object-fit:contain;'/></a>
     </td>
     <td align="left">
       <p>
@@ -25,14 +33,13 @@ author_profile: true
 </table>
 
 
-## Journal Articles ##
+## Journal Articles
 
-
-<table>
+<table class='imgtable'>
   <tr>
-    <td width="210px“>
+    <td>
       <a href="http://likeyhnbm.github.io/publications/electric">
-      <img src="../images/electric.gif?raw=true" alt="" height="100px" width="200px"/>
+      <img src="../images/electric.gif?raw=true" alt="" height="100px" width="180px" style='object-fit:contain;'/>
       </a>
     </td>
     <td align="left">
@@ -46,9 +53,9 @@ author_profile: true
     </td>
   </tr>
   <tr>
-    <td width="210px“>
+    <td>
      <a href="http://likeyhnbm.github.io/publications/water">
-      <img src="../images/water.jpg?raw=true" alt="" width="200px" height="auto" />
+      <img src="../images/water.jpg?raw=true" alt="" width="180px" height="100px" style='object-fit:contain;'/>
     </td>
     <td align="left">
       <p>
@@ -63,14 +70,15 @@ author_profile: true
 </table>
 
 
-## Preprints ##
+## Preprints
 
 
-<table>
+<table class='imgtable'>
   <tr>
     <td width="210px“>
     <a href="http://likeyhnbm.github.io/publications/FedPEFT">
-      <img src="../images/FedPEFT.jpeg" alt="" width="200px" height="auto" /> </a>
+    <img src="../images/FedPEFT.jpeg" alt="" width="180px" height="100px" style='object-fit:contain;' />
+      </a>
     </td>
     <td align="left">
       <p>
@@ -85,7 +93,7 @@ author_profile: true
   <tr>
     <td width="210px“>
      <a href="http://likeyhnbm.github.io/publications/AnomalyCrossing">
-      <img src="../images/anomalycrossing.png" alt="" width="200px" height="auto" />
+      <img src="../images/anomalycrossing.png" alt="" width="180px" height="100px" style='object-fit:contain;' />
       </a>
     </td>
     <td align="left">
@@ -100,3 +108,5 @@ author_profile: true
   </tr>
 
 </table>
+
+
