@@ -11,12 +11,7 @@ table.imgtable, table.imgtable td{
   height: 120px;
   /* text-align: left; */
 }
-td.img {
-  border: none;
-  text-align: center;
-  width: 200px;
-  /* height: 120px; */
-}
+
 </style>
 
 # <i class="fa fa-fw fa-copy"></i> Publications
@@ -25,7 +20,7 @@ td.img {
 
 <table class='imgtable'>
   <tr>
-    <td class="img">
+    <td align="center" style="width:200px">
       <a href="http://likeyhnbm.github.io/publications/FedPerfix"><img src="https://likeyhnbm.github.io/images/fedperfix.png" alt="FedPerfix"   style='height:95%; object-fit:contain;'/></a>
     </td>
     <td align="left">
@@ -43,7 +38,7 @@ td.img {
 
 <table class='imgtable'>
   <tr>
-    <td class="img">
+    <td align="center" style="width:200px">
       <a href="http://likeyhnbm.github.io/publications/electric">
       <img src="../images/electric.gif" alt="" height="95%" style='height:95%;object-fit:contain;'/>
       </a>
@@ -59,7 +54,7 @@ td.img {
     </td>
   </tr>
   <tr>
-    <td class="img">
+    <td align="center" style="width:200px">
      <a href="http://likeyhnbm.github.io/publications/water">
       <img src="../images/water.jpg" alt=""  height="95%" style='height:95%;object-fit:contain;'/></a>
     </td>
@@ -79,7 +74,7 @@ td.img {
 
 <table class='imgtable'>
   <tr>
-    <td class="img">
+    <td align="center" style="width:200px">
     <a href="http://likeyhnbm.github.io/publications/FedPEFT">
     <img src="../images/FedPEFT.jpeg" alt=""  height="95%" style='height:95%;object-fit:contain;' />
       </a>
@@ -94,7 +89,7 @@ td.img {
     </td>
   </tr>
   <tr>
-    <td class="img">
+    <td align="center" style="width:200px">
      <a href="http://likeyhnbm.github.io/publications/AnomalyCrossing">
       <img src="../images/anomalycrossing.png" alt=""  height="95%" style='height:95%;object-fit:contain;' />
       </a>
