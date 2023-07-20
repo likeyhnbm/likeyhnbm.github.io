@@ -7,11 +7,11 @@ author_profile: true
 
 <style>
 table.imgtable, table.imgtable td{
-  border: none;
+  border: 1px solid;
   /* text-align: left; */
 }
 td.img {
-  border: 1px solid;
+  border: none;
   text-align: center;
   width: 200px;
   height: 120px;
