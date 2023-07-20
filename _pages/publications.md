@@ -8,7 +8,7 @@ author_profile: true
 <style>
 table.imgtable, table.imgtable td{
   border: 1px solid;
-  height: auto;
+  /* height: auto; */
   /* text-align: left; */
 }
 
@@ -21,7 +21,7 @@ table.imgtable, table.imgtable td{
 <table class='imgtable'>
   <tr>
     <td align="center" style="width:200px">
-      <a href="http://likeyhnbm.github.io/publications/FedPerfix"><img src="https://likeyhnbm.github.io/images/fedperfix.png" alt="FedPerfix"   style='height:95%; object-fit:contain;'/></a>
+      <a href="http://likeyhnbm.github.io/publications/FedPerfix"><img src="https://likeyhnbm.github.io/images/fedperfix.png" alt="FedPerfix"   style='height:110px; object-fit:contain;'/></a>
     </td>
     <td align="left">
       <p>
@@ -40,7 +40,7 @@ table.imgtable, table.imgtable td{
   <tr>
     <td align="center" style="width:200px">
       <a href="http://likeyhnbm.github.io/publications/electric">
-      <img src="../images/electric.gif" alt="" height="95%" style='height:95%;object-fit:contain;'/>
+      <img src="../images/electric.gif" alt="" height="110x p" style='height:110px;object-fit:contain;'/>
       </a>
     </td>
     <td align="left">
@@ -56,7 +56,7 @@ table.imgtable, table.imgtable td{
   <tr>
     <td align="center" style="width:200px">
      <a href="http://likeyhnbm.github.io/publications/water">
-      <img src="../images/water.jpg" alt=""  height="95%" style='height:95%;object-fit:contain;'/></a>
+      <img src="../images/water.jpg" alt=""  height="110px" style='height:110px;object-fit:contain;'/></a>
     </td>
     <td align="left">
       <p>
@@ -76,7 +76,7 @@ table.imgtable, table.imgtable td{
   <tr>
     <td align="center" style="width:200px">
     <a href="http://likeyhnbm.github.io/publications/FedPEFT">
-    <img src="../images/FedPEFT.jpeg" alt=""  height="95%" style='height:95%;object-fit:contain;' />
+    <img src="../images/FedPEFT.jpeg" alt=""  height="110px" style='height:110px;object-fit:contain;' />
       </a>
     </td>
     <td align="left">
@@ -91,7 +91,7 @@ table.imgtable, table.imgtable td{
   <tr>
     <td align="center" style="width:200px">
      <a href="http://likeyhnbm.github.io/publications/AnomalyCrossing">
-      <img src="../images/anomalycrossing.png" alt=""  height="95%" style='height:95%;object-fit:contain;' />
+      <img src="../images/anomalycrossing.png" alt=""  height="110px" style='height:110px;object-fit:contain;' />
       </a>
     </td>
     <td align="left">
