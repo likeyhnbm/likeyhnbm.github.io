@@ -11,7 +11,7 @@ table.imgtable, table.imgtable td{
   /* text-align: left; */
 }
 td.img {
-  /* border: none; */
+  border: 1px solid;
   text-align: center;
   width: 200px;
   height: 120px;
