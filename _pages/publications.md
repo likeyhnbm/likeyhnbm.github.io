@@ -15,7 +15,7 @@ td.img {
   border: none;
   text-align: center;
   width: 200px;
-  height: 120px;
+  /* height: 120px; */
 }
 </style>
 
