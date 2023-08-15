@@ -8,7 +8,7 @@ permalink: /publication/water
 
 
 [[Paper](https://arxiv.org/abs/2112.06320)]
-[[Code](https://github.com/likeyhnbm/AnomalyCrossing)]
+[[Code](https://github.com/imguangyu/AnomalyCrossing)]
 
 
 ## Abstract
