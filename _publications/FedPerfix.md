@@ -10,8 +10,8 @@ permalink: /publication/FedPerfix
 ---
 # FedPerfix: Towards Partial Model Personalization of Vision Transformers in Federated Learning
 
-[<a>Paper (Coming Soon) </a>]
-[<a>Code (Coming Soon) </a>]
+[<a href='https://arxiv.org/abs/2308.09160'>Paper</a>]
+[<a href='https://github.com/imguangyu/FedPerfix'>Code</a>]
 
 
 ## Abstract

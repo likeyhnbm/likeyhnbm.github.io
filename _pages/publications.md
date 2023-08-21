@@ -28,7 +28,7 @@ table.imgtable, table.imgtable td{
         <a href="http://imguangyu.github.io/publications/FedPerfix"><b>FedPerfix: Towards Partial Model Personalization of Vision Transformers in Federated Learning</b><br></a>
         <b>Guangyu Sun</b>, Matias Mendieta, Jun Luo, Shandong Wu, Chen Chen.<br>
         <i>2023 IEEE/CVF International Conference on Computer Vision. </i><b>ICCV 2023</b>.<br>
-        [<a >Paper (Coming Soon)</a>][<a>Code (Coming Soon)</a>]
+        [<a href='https://arxiv.org/abs/2308.09160'>Paper</a>][<a href='https://github.com/imguangyu/FedPerfix'>Code</a>]
       </p>
     </td>
   </tr>
