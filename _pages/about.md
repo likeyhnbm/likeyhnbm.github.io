@@ -14,7 +14,7 @@ I am a second-year Ph.D. student with Prof. Chen Chen at the University of Centr
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-  <li> <b> [Apr. 2024]</b> Our paper <b>Towards Multi-modal Transformers in Federated Learning</b> is available on <a href='https://arxiv.org/abs/2404.12467'>arXiv</a>.</li>
+  <li> <b> [Apr. 2024]</b> Our papers <a href='https://arxiv.org/abs/2404.12467'><b>Towards Multi-modal Transformers in Federated Learning</b></a> and <a href='https://arxiv.org/abs/2405.01494'><b>Navigating Heterogeneity and Privacy in One-Shot Federated Learning with Diffusion Models</b></a> are available on arXiv.</li>
   <li> <b> [Aug. 2023]</b> Our paper <b>FedPerfix: Towards Partial Model Personalization of Vision Transformers in Federated Learning</b> is available on <a href='https://arxiv.org/pdf/2308.09160.pdf'>arXiv</a>.</li>
 
   <li> <b> [July. 2023]</b> Our paper <b>FedPerfix: Towards Partial Model Personalization of Vision Transformers in Federated Learning</b> has been accepted on <b>ICCV 2023</b>! Code and paper will be available soon.</li>
