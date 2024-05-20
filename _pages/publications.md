@@ -11,7 +11,6 @@ table.imgtable, table.imgtable td{
   /* height: auto; */
   /* text-align: left; */
 }
-
 </style>
 
 # <i class="fa fa-fw fa-copy"></i> Publications
@@ -73,6 +72,36 @@ table.imgtable, table.imgtable td{
 ## Preprints
 
 <table class='imgtable'>
+  <tr>
+    <td align="center" style="width:200px">
+    <a href="../publications/FedCola">
+    <img src="../images/FedCola.png" alt=""  height="110px" style='height:110px;object-fit:contain;' />
+      </a>
+    </td>
+    <td align="left">
+      <p>
+        <a href="../publications/FedCola">
+        <b>Towards Multi-modal Transformers in Federated Learning</b><br></a>
+        <b>Guangyu Sun</b>, Matias Mendieta, Chen Chen<br>
+        [<a href="https://arxiv.org/abs/2404.12467">Paper</a>]
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="width:200px">
+    <a href="http://imguangyu.github.io/publications/FedDiff">
+    <img src="../images/FedDiff.png" alt=""  height="110px" style='height:110px;object-fit:contain;' />
+      </a>
+    </td>
+    <td align="left">
+      <p>
+        <a href="http://imguangyu.github.io/publications/FedCola">
+        <b>Navigating Heterogeneity and Privacy in One-Shot Federated Learning with Diffusion Models</b><br></a>
+        Matias Mendieta, <b>Guangyu Sun</b>, Chen Chen<br>
+        [<a href="https://arxiv.org/abs/2405.01494">Paper</a>]
+      </p>
+    </td>
+  </tr>
   <tr>
     <td align="center" style="width:200px">
     <a href="http://imguangyu.github.io/publications/FedPEFT">
